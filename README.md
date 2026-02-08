@@ -57,7 +57,7 @@ Analysis of Superstore sales data (2014-2017) to identify revenue trends, top-se
 
 ### **Live Dashboard**
 - **Tableau Public Link**: 
-https://public.tableau.com/app/profile/aayush.karki/viz/BusinessSalesPerformanceAnalytics/Dashboard1
+https://public.tableau.com/app/profile/aayush.karki/viz/BusinessSalesPerformanceAnalytics/Dashboard2?publish=yes
 
 ## 📄 License
 This project is created for educational purposes as part of Future Interns internship program.
